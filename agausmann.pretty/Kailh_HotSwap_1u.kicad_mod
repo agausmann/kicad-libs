@@ -56,4 +56,9 @@
   (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask) (tstamp b111358f-2ef7-480e-8a29-f22c264f9704))
   (pad "1" smd rect (at 6.096 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 25f4333e-3547-4336-b6b3-507504cc41dc))
   (pad "2" smd rect (at -7.366 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0e31a725-6d47-4c0e-851e-5025fb28d5c3))
+  (model ":agausmann:snapeda/PG151101S11--3DModel-STEP-1.STEP"
+    (offset (xyz -0.65 3.8 -1.75))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
